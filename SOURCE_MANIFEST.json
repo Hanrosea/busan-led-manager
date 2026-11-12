@@ -1,0 +1,15 @@
+{
+  "release": "site-version-2",
+  "date": "2026-11-12",
+  "source_commit": "f6998ef48088ad78e6a479118b0b3fb3343965e7",
+  "app_files": {
+    "dist/app.js": "1e5666c5325592dc7abf7f123b7bb8265255dd92e6d32d86aaf6bbd64dbb4474",
+    "dist/assets/busan-association.png": "27fb040c31f343727d66119f5d0b4d05c5067b93c5c718533ed57f3277daf213",
+    "dist/core.js": "ef1e33add8a52cad1cd524958a5ea994da77480f2caf3d982457e9ef520af9a5",
+    "dist/excel.js": "f2d6154512898f3d58882ad530faac709a16982853c059f03955ca889d311d2c",
+    "dist/index.html": "a33666e8e4d8de85a92ef428f6b51d49ebe96673e3b28024f7a162a118fd8a45",
+    "dist/styles.css": "46a8f9f348fc7f4518f9e630bd3d7525fb11dca696874406344aaaf2b488f7de",
+    "dist/vendor/JSZip-LICENSE.md": "566c953c6090b1218ca6217dd7359d45dde46581968586dc607d59a78af6a9c4",
+    "dist/vendor/jszip.min.js": "acc7e41455a80765b5fd9c7ee1b8078a6d160bbbca455aeae854de65c947d59e"
+  }
+}

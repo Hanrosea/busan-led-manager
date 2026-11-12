@@ -1,0 +1,13 @@
+{
+  "name": "busan-led-manager",
+  "version": "1.0.1",
+  "private": true,
+  "description": "부산시내버스 행선지안내기 통합관리프로그램 검토용 프런트엔드",
+  "scripts": {
+    "start": "node server.cjs",
+    "test": "node --test tests/core.test.js tests/excel.test.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
